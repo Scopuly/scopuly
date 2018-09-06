@@ -59,8 +59,10 @@ All transactions go through the same steps of being displayed for review before 
 
 **Scopuly** is released under the AGPL
 
-* Website: https://scopuly.com/
+### Website 
+https://scopuly.com/
 
+### Apps
   * Android: https://play.google.com/store/apps/details?id=com.scopuly.app
   * iOS: https://itunes.apple.com/us/app/id1383402218
   * MacOS: https://scopuly.com/apps/mac/Scopuly.dmg
