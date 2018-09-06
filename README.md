@@ -10,6 +10,7 @@ Scopuly allows you to safely store and instantly transfer your crypto-currency a
 ## Main features:
 
 * Multiple accounts
+
 * Accounts
   * Create Account
   * NameCard
@@ -17,11 +18,12 @@ Scopuly allows you to safely store and instantly transfer your crypto-currency a
   * Import Acccount
   * Funding Account
   * Inflation
-  * Managing Trust
+  * Managing Trustlines
   * Managing multi-signatures
   * Management of trade offers
   * Merge Accounts
   * Recovery Account
+  
 * Multiple assets
     * Issue/Redeem
     * Send/Receive/Trade
@@ -30,9 +32,11 @@ Scopuly allows you to safely store and instantly transfer your crypto-currency a
 
 * Multisignature
 
-* Add contacts
-    * using QR code
-    * from a transaction
+* Contacts
+ * Import By QRCode
+ * Export QRCode
+ * Autocomplete recipient when sent
+ * from a transaction
 
 * Add memo to transactions
 
