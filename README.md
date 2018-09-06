@@ -42,10 +42,6 @@ Scopuly allows you to safely store and instantly transfer your crypto-currency a
   * from a transaction
 
 * Add memo to transactions
-
-* Import/export accounts
-    * QR code
-    * Manual input
     
 * Choosing an interface design
   * Interface: iOS, MD
