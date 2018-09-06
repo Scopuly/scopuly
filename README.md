@@ -1,9 +1,9 @@
 # Scopuly Stellar Wallet & SDEX
 
-### Safe cold storage (local secret key encryption)
-### P2P Trade in crypto Assets (DEX)
-### Asset Tokenization
-### ICO & Token Marketplace
+- Safe cold storage (local secret key encryption)
+- Decentralized trade in crypto Assets (DEX)
+- Asset Tokenization
+- ICO & Token Marketplace
 
 Scopuly allows you to safely store and instantly transfer your crypto-currency assets, issue your own crypto tokens and launch ICO campaigns, invest in ICO projects, and also trade in crypto tokens on the decentralized Exchange of Scopuly DEX (Stellar Exchange) in real time, with zero commissions.
 
@@ -25,24 +25,32 @@ Scopuly allows you to safely store and instantly transfer your crypto-currency a
   * Recovery Account
   
 * Multiple assets
-    * Issue/Redeem
-    * Send/Receive/Trade
+  * Issue/Redeem
+  * Send/Receive/Trade
+  * Trading tokens released
+  * Establishment of the issuer's metainformation
+  * Management of emission limitation
 
 * Creation / reception of payment requests by QR-code
 
 * Multisignature
 
 * Contacts
- * Import By QRCode
- * Export QRCode
- * Autocomplete recipient when sent
- * from a transaction
+  * Import By QRCode
+  * Export QRCode
+  * Autocomplete recipient when sent
+  * from a transaction
 
 * Add memo to transactions
 
 * Import/export accounts
     * QR code
     * Manual input
+    
+* Choosing an interface design
+  * Interface: iOS, MD
+  * Theme: Light, Dark
+  * Color: Red, Green, Blue, Pink, Ellow, Orange, White, Black
 
 
 ## Security
@@ -55,10 +63,11 @@ All transactions go through the same steps of being displayed for review before 
 
 **Scopuly** is released under the AGPL
 
-* app/core/controllers/scanner.js
-* app/core/directives/qr-scanner.js
-* app/core/services/platform-info.js
+* Website: https://scopuly.com/
 
-which originate from **Copay**, and are made available under the terms of the **MIT License**.
+  * Android: https://play.google.com/store/apps/details?id=com.scopuly.app
+  * iOS: https://itunes.apple.com/us/app/id1383402218
+  * MacOS: https://scopuly.com/apps/mac/Scopuly.dmg
+  * Windows: https://scopuly.com/apps/windows/Scopuly.exe
 
 Copyright &copy; 2016-2018 MBK, LLC
