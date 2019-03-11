@@ -1,3 +1,5 @@
+Scopuly provides a safe and secure way to use your Stellar accounts without trusting your private key to anyone. All sensitive data is encrypted with your password and securely stored in the browser.
+
 # Scopuly Stellar Wallet & SDEX
 
 - Safe cold storage (local secret key encryption)
