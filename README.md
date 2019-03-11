@@ -2,10 +2,12 @@ Scopuly provides a safe and secure way to use your Stellar accounts without trus
 
 # Scopuly Stellar Wallet & SDEX
 
-- Safe cold storage (local secret key encryption)
-- Decentralized trade in crypto Assets (DEX)
-- Asset Tokenization
-- ICO & Token Marketplace
+- Safe Crypto Wallet
+- Decentralized Exchange (SDEX)
+- Multicurrency Transfers and Payments
+- Tokenization of Assets (Token Issue)
+- Crypto / Fiat Exchange (Crypto / USD, EUR, RUB)
+- Block explorer
 
 Scopuly allows you to safely store and instantly transfer your crypto-currency assets, issue your own crypto tokens and launch ICO campaigns, invest in ICO projects, and also trade in crypto tokens on the decentralized Exchange of Scopuly DEX (Stellar Exchange) in real time, with zero commissions.
 
