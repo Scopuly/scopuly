@@ -57,14 +57,14 @@ All private keys are stored in localStorage, encrypted or not. Within the app, k
 
 All transactions go through the same steps of being displayed for review before being signed and submitted.
 
-## Website 
+## Web 
 https://scopuly.com/
 
 ## Apps
   * Android: https://play.google.com/store/apps/details?id=com.scopuly.app
   * iOS: https://itunes.apple.com/us/app/id1383402218
-  * MacOS: https://scopuly.com/apps/mac/Scopuly.dmg
-  * Windows: https://scopuly.com/apps/windows/Scopuly.exe
+  * MacOS: https://github.com/Scopuly/scopuly/releases
+  * Windows: https://github.com/Scopuly/scopuly/releases
   
 ## License
 
