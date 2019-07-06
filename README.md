@@ -1,15 +1,19 @@
-Scopuly provides a safe and secure way to use your Stellar accounts without trusting your private key to anyone. All sensitive data is encrypted with your password and securely stored in the browser.
+Scopuly is a decentralized platform for storing, managing, trading, investing and releasing digital assets.
+
+Scopuly provides a safe and secure way to use your Stellar accounts without trusting your private key to anyone. All sensitive data is encrypted with your password and temporarily stored in the local memory of your device.
 
 # Scopuly Stellar Wallet & SDEX
+### Trading & Analysis Platform For Stellar Network
 
-- Safe Crypto Wallet
-- Decentralized Exchange (SDEX)
+- Multi Account Wallet
 - Multicurrency Transfers and Payments
-- Tokenization of Assets (Token Issue)
-- Crypto / Fiat Exchange (Crypto / USD, EUR, RUB)
-- Block explorer
+- Decentralized Asset Exchange (DEX)
+- Crypto / Fiat Exchange
+- Tokenization Assets (Issuing Tokens)
+- IEO Launchpad (IDO)
+- Block Explorer
 
-Scopuly allows you to safely store and instantly transfer your crypto-currency assets, issue your own crypto tokens and launch ICO campaigns, invest in ICO projects, and also trade in crypto tokens on the decentralized Exchange of Scopuly DEX (Stellar Exchange) in real time, with zero commissions.
+Scopuly allows you to safely store and instantly transfer your cryptocurrency assets; release your own tokens and launch IEO fundraising campaigns; invest in projects on IEO Launchpad, as well as trade in crypto assets on the SDEX (Stellar Decentralized Exchange) decentralized exchange in real time, with zero commissions.
 
 ## Main features:
 
@@ -27,11 +31,11 @@ Scopuly allows you to safely store and instantly transfer your crypto-currency a
   * Management of trade offers
   * Merge Accounts
   * Recovery Account
+  * Lock Account
   
 * Multiple assets
   * Issue/Redeem
   * Send/Receive/Trade
-  * Trading tokens released
   * Establishment of the issuer's metainformation
   * Management of emission limitation
 
@@ -55,21 +59,33 @@ Scopuly allows you to safely store and instantly transfer your crypto-currency a
 
 ## Security
 
-All private keys are stored in localStorage, encrypted or not. Within the app, key decryption and transaction signing all take place inside the `Keychain` service in `app/core/services/keychain.js`. The only time an unencrypted private key leaves that service is when an account is being exported and you're not using password protection.
+Scopuly is a decentralized cryptocurrency platform. This means that only the user has access to the funds and no one else. All financial transactions, such as trading, payments, account management ... all this interacts directly with the Stellar blockchain and is not dependent on any third party.
 
-All transactions go through the same steps of being displayed for review before being signed and submitted.
+There is also an additional layer to protect your account - this is the installation of 2FA authorization to share the platform, as well as the installation of multi-signatures on wallets.
 
-## Web 
-https://scopuly.com/
+Since only the user has access to the secret key, locally from his device, without touching the server - the situation of general hacking and the withdrawal of all user funds is excluded.
+
+Recent hacking stories of such well-known centralized exchanges as: Binance, Bithumb, Bitfinex, Bitstamp and many others .. billions of dollars of user funds were stolen. This is a big problem for the cryptocurrency ecosystem. The fear of losing money from hacking into your wallet is a very serious problem for the mass adoption of cryptocurrencies.
+
+The solution to this apparent problem is decentralized DEX platforms, where the users themselves own the funds, and not the hot or cold wallets of the centralized exchanges.
+
+Scopuly is just such a dex platform. All operations in the wallet: authorization, trading, payments, account management, multi-signatures, issue of tokens, participation in IEO campaigns - all these operations are completely decentralized and interact directly with the Stellar blockchain.
+
 
 ## Apps
-  * Android: https://play.google.com/store/apps/details?id=com.scopuly.app
+  * Android: https://play.google.com/store/apps/details?id=com.sdex.app
   * iOS: https://itunes.apple.com/us/app/id1383402218
   * MacOS: https://github.com/Scopuly/scopuly/releases
   * Windows: https://github.com/Scopuly/scopuly/releases
+  
+  
+## Web 
+https://scopuly.com/
+  
   
 ## License
 
 **Scopuly** is released under the AGPL
 
-Copyright &copy; 2016-2018 MBK, LLC
+Copyright &copy; 2016-2019 MBK, LLC
+
