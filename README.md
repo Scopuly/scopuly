@@ -72,15 +72,14 @@ The solution to this apparent problem is decentralized DEX platforms, where the 
 Scopuly is just such a dex platform. All operations in the wallet: authorization, trading, payments, account management, multi-signatures, issue of tokens, participation in IEO campaigns - all these operations are completely decentralized and interact directly with the Stellar blockchain.
 
 
+## Web 
+https://scopuly.com/
+
 ## Apps
   * Android: https://play.google.com/store/apps/details?id=com.sdex.app
   * iOS: https://itunes.apple.com/us/app/id1383402218
   * MacOS: https://github.com/Scopuly/scopuly/releases
   * Windows: https://github.com/Scopuly/scopuly/releases
-  
-  
-## Web 
-https://scopuly.com/
   
   
 ## License
