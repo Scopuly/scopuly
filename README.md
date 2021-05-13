@@ -86,5 +86,5 @@ https://scopuly.com/
 
 **Scopuly** is released under the AGPL
 
-Copyright &copy; 2016-2019 MBK, LLC
+Copyright &copy; 2016-2021 MBK, LLC
 
