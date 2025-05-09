@@ -1,90 +1,80 @@
-Scopuly is a decentralized platform for storing, managing, trading, investing and releasing digital assets.
+# Scopuly – Stellar DeFi Wallet & SDEX
 
-Scopuly provides a safe and secure way to use your Stellar accounts without trusting your private key to anyone. All sensitive data is encrypted with your password and temporarily stored in the local memory of your device.
+Scopuly is a secure, non-custodial, cross-platform wallet and decentralized exchange (DEX) built on the Stellar blockchain. Designed for both individuals and businesses, Scopuly empowers users to manage, trade, and grow their digital assets with full control and transparency.
 
-# Scopuly Stellar Wallet & SDEX
-### Trading & Analysis Platform For Stellar Network
+---
 
-- Multi Account Wallet
-- Multicurrency Transfers and Payments
-- Decentralized Asset Exchange (DEX)
-- Crypto / Fiat Exchange
-- Tokenization Assets (Issuing Tokens)
-- IEO Launchpad (IDO)
-- Block Explorer
+## 🚀 Key Features
 
-Scopuly allows you to safely store and instantly transfer your cryptocurrency assets; release your own tokens and launch IEO fundraising campaigns; invest in projects on IEO Launchpad, as well as trade in crypto assets on the SDEX (Stellar Decentralized Exchange) decentralized exchange in real time, with zero commissions.
+- **Non-Custodial Wallet**: Your private keys are encrypted and stored locally, ensuring complete control over your assets.
+- **Multi-Account Management**: Easily create and manage multiple Stellar accounts within the app.
+- **Decentralized Trading (SDEX)**: Access the Stellar Decentralized Exchange directly from your wallet to trade over 1,000 asset pairs with minimal fees.
+- **Instant Asset Swapping**: Swap Stellar-based assets instantly at the best market rates.
+- **Liquidity Pools & Staking**: Participate in liquidity pools and stake assets to earn passive income.
+- **Token Issuance**: Create and manage your own tokens with customizable parameters.
+- **Global Payments**: Send and receive payments worldwide in any digital currency, utilizing QR codes for seamless transactions.
+- **Fiat On/Off-Ramp**: Buy and sell crypto with fiat currencies via integrated partners.
+- **QR Code Support**: Scan and generate QR codes for transactions, trustlines, and wallet recovery.
+- **Cross-Platform Availability**: Available on iOS, Android, macOS, and Telegram.
 
-## Main features:
+---
 
-* Multiple accounts
+## 📲 Download Scopuly Wallet
 
-* Accounts
-  * Create Account
-  * NameCard
-  * Export Account
-  * Import Acccount
-  * Funding Account
-  * Inflation
-  * Managing Trustlines
-  * Managing multi-signatures
-  * Management of trade offers
-  * Merge Accounts
-  * Recovery Account
-  * Lock Account
-  
-* Multiple assets
-  * Issue/Redeem
-  * Send/Receive/Trade
-  * Establishment of the issuer's metainformation
-  * Management of emission limitation
+- **iOS**: [Download from App Store](https://apps.apple.com/us/app/scopuly-stellar-defi-wallet/id1383402218?platform=iphone)
+- **Android**: [Download from Google Play](https://play.google.com/store/apps/details?id=com.sdex.app)
+- **macOS**: [Download from App Store](https://apps.apple.com/us/app/scopuly-stellar-defi-wallet/id1383402218?platform=mac)
+- **Telegram Bot**: [Access via Telegram](https://t.me/Scopuly_bot?start=app)
 
-* Creation / reception of payment requests by QR-code
+---
 
-* Multisignature
+## 🛠️ Getting Started
 
-* Contacts
-  * Import By QRCode
-  * Export QRCode
-  * Autocomplete recipient when sent
-  * from a transaction
+1. **Create or Import Wallet**: Set up a new Stellar wallet or import an existing one using your secret key or recovery phrase.
+2. **Secure Your Wallet**: Enable PIN protection and backup your recovery phrase securely.
+3. **Add Trustlines**: Establish trustlines to interact with various Stellar assets.
+4. **Start Trading**: Access the SDEX to trade assets or participate in liquidity pools and staking.
+5. **Manage Tokens**: Issue your own tokens and manage them directly within the app.
 
-* Add memo to transactions
-    
-* Choosing an interface design
-  * Interface: iOS, MD
-  * Theme: Light, Dark
-  * Color: Red, Green, Blue, Pink, Ellow, Orange, White, Black
+---
 
+## 🔐 Security
 
-## Security
+Scopuly prioritizes user security with features such as:
 
-Scopuly is a decentralized cryptocurrency platform. This means that only the user has access to the funds and no one else. All financial transactions, such as trading, payments, account management ... all this interacts directly with the Stellar blockchain and is not dependent on any third party.
+- **Local Key Storage**: Private keys are encrypted and stored locally on your device.
+- **Multi-Signature Support**: Enhance security with multi-signature transaction approvals.
+- **PIN Protection**: Secure your wallet access with a personal identification number.
+- **QR Code Recovery**: Backup and restore wallets using QR codes.
 
-There is also an additional layer to protect your account - this is the installation of 2FA authorization to share the platform, as well as the installation of multi-signatures on wallets.
+---
 
-Since only the user has access to the secret key, locally from his device, without touching the server - the situation of general hacking and the withdrawal of all user funds is excluded.
+## 📈 Recent Updates (v2.0.5)
 
-Recent hacking stories of such well-known centralized exchanges as: Binance, Bithumb, Bitfinex, Bitstamp and many others .. billions of dollars of user funds were stolen. This is a big problem for the cryptocurrency ecosystem. The fear of losing money from hacking into your wallet is a very serious problem for the mass adoption of cryptocurrencies.
+- **Enhanced QR Code Functionality**: Improved scanning and generation of QR codes for various operations.
+- **Optimized User Interface**: Refined UI for better user experience across all platforms.
+- **Performance Improvements**: Reduced installation file size and faster loading times.
+- **Bug Fixes**: Addressed various bugs for smoother operation.
 
-The solution to this apparent problem is decentralized DEX platforms, where the users themselves own the funds, and not the hot or cold wallets of the centralized exchanges.
+*For a detailed list of changes, refer to the [release notes](https://github.com/Scopuly/scopuly/releases).*
 
-Scopuly is just such a dex platform. All operations in the wallet: authorization, trading, payments, account management, multi-signatures, issue of tokens, participation in IEO campaigns - all these operations are completely decentralized and interact directly with the Stellar blockchain.
+---
 
+## 📚 Documentation & Support
 
-## Web 
-https://scopuly.com/
+- **Official Website**: [scopuly.com](https://scopuly.com)
+- **Medium Blog**: [Scopuly on Medium](https://scopuly.medium.com/)
+- **Telegram Community**: [Join the Conversation](https://t.me/scopuly)
+- **GitHub Issues**: [Report Issues or Request Features](https://github.com/Scopuly/scopuly/issues)
 
-## Apps
-  * Android: https://play.google.com/store/apps/details?id=com.sdex.app
-  * iOS: https://itunes.apple.com/us/app/id1383402218
-  * MacOS: https://github.com/Scopuly/scopuly/releases
-  * Windows: https://github.com/Scopuly/scopuly/releases
-  
-  
-## License
+---
 
-**Scopuly** is released under the AGPL
+## 📄 License
 
-Copyright &copy; 2016-2021 SCOPULY, LLC
+This project is licensed under the [MIT License](LICENSE).
 
+---
+
+*Scopuly is committed to providing a secure and user-friendly platform for managing Stellar assets. Join us in revolutionizing the decentralized finance landscape.*
+
+> Note: Always ensure you understand the risks associated with cryptocurrency investments and trading.
